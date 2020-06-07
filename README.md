@@ -1,2 +1,3 @@
 # hello-world
 It is my first git repository, and I hope it is not last one...
+And some words about me. I am studying Python now.
